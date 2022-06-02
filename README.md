@@ -1,2 +1,2 @@
 # diabetes-survey
-Analysis using the diabetes indicators dataset
+Type 2 diabetes analysis using the diabetes indicators dataset
